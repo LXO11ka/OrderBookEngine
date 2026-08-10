@@ -1,4 +1,4 @@
-namespace OrderBookEngine;
+﻿namespace OrderBookEngine;
 
 internal class Program
 {
